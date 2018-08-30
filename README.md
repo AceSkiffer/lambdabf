@@ -1,14 +1,14 @@
 # lambdabf
 
-A brainfuck interpretator written in Haskell
+A brainfuck interpreter written in Haskell.
 
-See more about brainfuck at [wikipedia](https://en.wikipedia.org/wiki/Brainfuck "Brainfuck")
+For more information about brainfuck see [Wikipedia](https://en.wikipedia.org/wiki/Brainfuck "Brainfuck").
 
-## Extra operators
+## Extended Brainfuck
 
 The current realization also supports some additional operators:
 
 | Operator | Description                                     |
 | :------: | :-----------------------------------------------|
-| #        | Print number from current cell                  |
-| ;        | Comment (from this symbol to end of the line)   |
+| #        | Print number from current cell.                 |
+| ;        | Comment (from this symbol to end of the line).  |
