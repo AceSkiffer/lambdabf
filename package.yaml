@@ -1,6 +1,6 @@
 name:                lambdabf
 version:             0.1.0.0
-github:              "https://github.com/AceSkiffer/lambdabf"
+github:              "https://github.com/stnrepin/lambdabf"
 license:             BSD3
 author:              "Stepan Repin"
 maintainer:          "stnrepin@gmail.com"
@@ -15,7 +15,7 @@ category:            "Desktop"
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/AceSkiffer/lambdabf#readme>
+description:         Please see the README on GitHub at <https://github.com/stnrepin/lambdabf#readme>
 
 dependencies:
 - base >= 4.7 && < 5
